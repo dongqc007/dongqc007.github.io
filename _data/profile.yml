@@ -1,13 +1,13 @@
-primary_name: "Qichang Dong"
+primary_name: "Your Name"
 secondary_name: ""
-navbar_name: "Qichang Dong"
+navbar_name: "Your Name"
 
 positions:
-- name: Position without logo123456
+- name: Position without logo
 - logo: /assets/images/badges/PKU_red.png
-  name:  Ph.D. the Hong Kong Polytechnic University (2024-Now)
+  name: B.S., Peking University (2021)
 
-email: "dongqc007@163.com"
+email: "your@email.com"
 # cv_link: link-to-your-cv-file
 gscholar: your_google_scholar_id
 github: your_github_id
@@ -19,11 +19,14 @@ twitter: your_twitter_id
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
+  I am currently a collaborative Ph.D. student of training programme offered by The Hong Kong Polytechnic University (PolyU) and EIT Institute for Advanced Study, 
+  under the co-supervision of Prof. CHEN Wen and Prof. CHEN. My research focuses on Computational electromagnetics, multi-physics simulation, biological electromagnetic field, AI for science, 
+  optimization problem, application of RIS (reconfigurable intelligent surface) and so on.
+
 #I am currently a collaborative Ph.D. student of training programme offered by <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University (PolyU)</a> and <a href="https://www.eitech.edu.cn/">EIT Institute for Advanced 
 #Study</a>, under the co-supervision of Prof. CHEN Wen and Prof. CHEN. My research focuses on Computational electromagnetics, multi-physics simulation, biological electromagnetic field, AI for science, 
 #optimization problem, application of RIS (reconfigurable intelligent surface) and so on.
-I am currently a collaborative Ph.D. student of training programme offered by The Hong Kong Polytechnic University (PolyU) and EIT Institute for Advanced Study, under the co-supervision of Prof. CHEN Wen and Prof. CHEN. My research focuses on Computational electromagnetics, multi-physics simulation, biological electromagnetic field, AI for science, 
-optimization problem, application of RIS (reconfigurable intelligent surface) and so on.
+
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
