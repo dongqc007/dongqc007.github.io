@@ -1,9 +1,9 @@
-primary_name: "Your Name"
+primary_name: "Qichang Dong"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Qichang Dong"
 
 positions:
-- name: Position without logo
+- name: Position without logo123456
 - logo: /assets/images/badges/PKU_red.png
   name: B.S., Peking University (2021)
 
