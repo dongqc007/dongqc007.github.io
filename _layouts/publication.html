@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="publication-detail my-4 my-md-5">
+  <header class="text-center mx-auto mb-4" style="max-width: 980px;">
+    <h1 class="font-weight-bold mb-3" style="font-size: clamp(2rem, 4vw, 3.35rem); line-height: 1.12;">{{ page.title }}</h1>
+    <div class="lead mb-3">{% include widgets/author_list.html authors=page.authors %}</div>
+  </header>
+
+  <figure class="mx-auto mb-5" style="max-width: 1100px;">
+    <img src="{{ page.cover | relative_url }}" alt="Overview of {{ page.title }}" class="img-fluid w-100 rounded shadow-sm">
+  </figure>
+
+  <section class="bg-white rounded shadow-sm p-4 p-md-5 mx-auto mb-4" style="max-width: 980px;">
+    <h2 class="h3 font-weight-bold mb-3">Abstract</h2>
+    <p class="lead text-justify mb-4" style="line-height: 1.75;">{{ page.abstract }}</p>
+    {% if page.links.DOI %}
+    <a class="btn btn-dark" href="{{ page.links.DOI }}" target="_blank" rel="noopener"><i class="fas fa-external-link-alt mr-2"></i>View on IEEE / DOI</a>
+    {% endif %}
+  </section>
+</article>
