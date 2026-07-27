@@ -7,10 +7,10 @@ positions:
 - logo: /assets/images/badges/polyu.jpeg
   name: Ph.D., the Hong Kong Polytechnic University (2024-Now)
 
-email: "your@email.com"
+email: "qichang.don@gmail.com"
 # cv_link: link-to-your-cv-file
 gscholar: your_google_scholar_id
-github: your_github_id
+github: dongqc007
 twitter: your_twitter_id
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -32,6 +32,15 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
+- name: '<a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University (PolyU)</a>'
+  logo: /assets/images/badges/polyu.jpeg
+  position: Collaborative Ph.D. Student
+  date: 2024 - Now
+
+- name: '<a href="https://www.eitech.edu.cn/">EIT Institute for Advanced Study</a>'
+  position: Collaborative Ph.D. Student
+  date: 2024 - Now
+
 - name: Jilin University
   logo: /assets/images/badges/PKU_red.png
   position: Bachelor in Information Engeering
