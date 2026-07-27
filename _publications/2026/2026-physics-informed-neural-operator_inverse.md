@@ -3,6 +3,7 @@ layout: publication
 title: "Physics-Informed Neural Operator for Electromagnetic Inverse Scattering Problems"
 cover: /assets/images/covers/PINO_inverse.png
 date: 2026-01-01
+year: 2026
 selected: true
 authors:
   - Qi-Chang Dong
